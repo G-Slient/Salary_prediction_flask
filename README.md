@@ -11,7 +11,7 @@ Here, the Dataset is **Salary_Data.csv**
 
 The input data to the model is the experience, which is sent in the form of **POST Request** for which **POSTMAN** is used.
 
-<img src="" />
 
+  <img src="Screenshot from 2019-01-29 19-21-01.png" height="400" alt="Screenshot"/> 
 
 
